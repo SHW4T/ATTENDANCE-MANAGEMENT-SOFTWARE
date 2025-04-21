@@ -100,7 +100,7 @@ This will create the `attendance_system` database, tables, constraints, and an i
 
 ## Demo
 
-
+[LinkedIn Post](https://www.linkedin.com/posts/shwat_excited-to-share-my-latest-mini-project-activity-7320072467358621696-0fzp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFheUKYBKwZZDEvvdUkR3gMmMJ6eP8me_zg)
 
 ---
 
@@ -121,7 +121,7 @@ This project is for educational purposes and is open for modification and improv
 
 For any queries or suggestions, please contact:
 
-- SHASHWAT THAKUR : linkedin.
+- SHASHWAT THAKUR : linkedin.com/in/shwat
 
 
 
